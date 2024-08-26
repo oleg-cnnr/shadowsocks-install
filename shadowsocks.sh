@@ -529,6 +529,10 @@ case "$OSVER" in
         # Debian 10.0 buster
         INSMARK=1
         ;;
+    bookworm)
+        # Debian 12.0 bookworm
+        INSMARK=1
+        ;;
     trusty)
         # Ubuntu 14.04 trusty LTS
         INSMARK=1

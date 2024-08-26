@@ -23,6 +23,7 @@ Automatically deploy servers and Optimize the shadowsocks server on Linux.
 * Debian 8 *Jessie*
 * Debian 9 *Stretch*
 * Debian 10 *Buster*
+* Debian 12 *Bookworm*
 * Ubuntu 14.04 *Trusty*
 * Ubuntu 16.04 *Xenial*
 * Ubuntu 18.04 *Bionic*
